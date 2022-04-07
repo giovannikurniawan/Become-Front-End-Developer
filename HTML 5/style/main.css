@@ -1,0 +1,37 @@
+body {
+    margin: 0;
+}
+.header {
+    width: 100%;
+    overflow: hidden;
+    background: #b1b1b1;
+}
+
+.header .logo {
+    
+    font-size: 32px;
+    float: left;
+}
+
+.header .navigation {
+    float: right;
+    margin-top: 40px;
+}
+
+.container {
+    margin: auto;
+    overflow: hidden;
+    width: 70%;
+}
+
+.header .navigation li {
+    float: right;
+    margin-left: 20px;
+    font-size: 18px;
+    display: block;
+}
+
+.header .navigation li a {
+    color: white;
+    text-decoration: none;
+}
